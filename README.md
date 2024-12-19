@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Analyst at UBS<br>🌿 I previously worked as a Software Developer Intern at Swecha<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Python and MySQL<br>💬 Ask me about tech<br>⚡ Fun fact - I love to sleep
+🔭 I’m an upcoming sde intern at Amazon <br>🌿 I previously worked as a Software Developer Intern at Swecha<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Python and MySQL<br>💬 Ask me about tech<br>⚡ Fun fact - I love to sleep
 
 
 ## 🌐 Socials:
